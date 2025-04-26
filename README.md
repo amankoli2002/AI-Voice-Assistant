@@ -46,7 +46,7 @@ A simple AI voice assistant built using modern technologies that can interact wi
 
 4. Start the development server
    ```bash
-   expo start
+   npx expo start
 
 5. Scan the QR code using the Expo Go app to run the app on your mobile device.
 
